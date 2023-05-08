@@ -24,10 +24,10 @@
     <color name="sunflower_green_100_8pc_over_surface">#202221</color>
     <color name="sunflower_green_200">#81ca9d</color>
     <color name="sunflower_green_300">#6dc790</color>
-    <color name="sunflower_green_500">#49bb79</color>
+    <color name="sunflower_green_500">#993399</color>
     <color name="sunflower_green_700">#005d2b</color>
     <color name="sunflower_green_900">#1a231e</color>
     <color name="sunflower_white">#deffffff</color>
     <color name="sunflower_yellow_300">#f8f99f</color>
-    <color name="sunflower_yellow_500">#ffff63</color>
+    <color name="sunflower_yellow_500">#565da6</color>
 </resources>
